@@ -30,6 +30,11 @@ function actualizarListaAmigos(amigo) {
 }
 
 function sortearAmigo() {
+
+    if(!inputAmigo.value){
+        alert("No hay amigos disponibles para sortear. Debes agregar al menos un amigo.");
+        return;
+    }
     const random = Math.floor(Math.random() * listaAmigos.length);
     const amigoSecreto = listaAmigos[random];
     ulResultado.innerHTML = `<li>El Amigo Secreto es: ${amigoSecreto}</li>`;
