@@ -31,7 +31,7 @@ function actualizarListaAmigos(amigo) {
 
 function sortearAmigo() {
 
-    if(!inputAmigo.value){
+    if(!listaAmigos.length){
         alert("No hay amigos disponibles para sortear. Debes agregar al menos un amigo.");
         return;
     }
