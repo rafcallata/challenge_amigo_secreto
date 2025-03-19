@@ -29,6 +29,9 @@
 - `Visualización del resultado`: muestra el amigo seleccionado en la pantalla.
 - `Interfaz amigable`:  Diseño intuitivo y atractivo que facilita la interacción del usuario.
 
+## Acceso al proyecto
+:paperclip: https://rafcallata.github.io/challenge_amigo_secreto/
+
 ## Tecnologías utilizadas
 :white_check_mark: JavaScript
 :white_check_mark: HTML
