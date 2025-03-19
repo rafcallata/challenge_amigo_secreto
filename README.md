@@ -12,7 +12,6 @@
 - [Acceso al proyecto](#acceso-al-proyecto)
 - [Tecnologías utilizadas](#tecnologías-utilizadas)
 - [Personas Desarrolladores del Proyecto](#personas-desarrolladores-del-proyecto)
-- [Conclusión](#conclusión)
 
 ───        ⋆⋅☆⋅⋆        ──
 
